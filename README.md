@@ -5,8 +5,7 @@ A web application built using Django for managing events and handling registrati
 ## Author
 
 Aaryan Budakoti
-Aabhas Katyal
-Piyush Sharma
+
 
 ## Features
 
