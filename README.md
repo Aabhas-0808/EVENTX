@@ -6,6 +6,13 @@ A web application built using Django for managing events and handling registrati
 
 Aaryan Budakoti
 
+<img width="1876" height="957" alt="eventx" src="https://github.com/user-attachments/assets/3f049081-a690-4df0-b1be-81a694b02c02" />
+
+
+<img width="1887" height="949" alt="Screenshot 2026-02-03 111327" src="https://github.com/user-attachments/assets/934d25ae-62a2-4b9c-9a32-29fa97238812" />
+
+<img width="1879" height="951" alt="Screenshot 2026-02-03 111342" src="https://github.com/user-attachments/assets/7a37633f-e0c1-4657-af1f-4f36123187f7" />
+
 
 ## Features
 
