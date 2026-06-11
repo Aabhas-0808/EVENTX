@@ -4,7 +4,7 @@ A web application built using Django for managing events and handling registrati
 
 ## Author
 
-Aaryan Budakoti
+Aabhas Katyal
 
 <img width="1876" height="957" alt="eventx" src="https://github.com/user-attachments/assets/3f049081-a690-4df0-b1be-81a694b02c02" />
 
