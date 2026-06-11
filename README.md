@@ -39,7 +39,7 @@ Aabhas Katyal
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/aaryanbudakoti/EVENTX.git
+   git clone https://github.com/Aabhas-0808/EVENTX.git
    cd EVENTX
 2. **Create and activate a virtual environment (recommended):**
    - On Windows:
